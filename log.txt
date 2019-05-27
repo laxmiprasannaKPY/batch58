@@ -1,0 +1,16 @@
+INFO:root:program strted
+DEBUG:root:a value enterd:12
+DEBUG:root:b value enterd: 6
+DEBUG:root:a converted value:12.0
+DEBUG:root:b converted value:6.0
+DEBUG:root:result=2.0
+INFO:root:program completed
+2019-05-27 07:56:10,287==>INFO-->program strted-->root
+2019-05-27 07:56:11,598==>DEBUG-->a value enterd:12-->root
+2019-05-27 07:56:12,071==>DEBUG-->b value enterd: 6-->root
+2019-05-27 07:56:12,072==>DEBUG-->a converted value:12.0-->root
+2019-05-27 07:56:12,072==>DEBUG-->b converted value:6.0-->root
+2019-05-27 07:56:12,072==>DEBUG-->result=2.0-->root
+2019-05-27 07:56:12,072==>INFO-->program completed-->root
+2019-05-27 07:57:44,615==>ERROR-->float division by zero-->root
+2019-05-27 07:59:23,088==>ERROR-->float division by zero-->root
